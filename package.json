@@ -1,0 +1,24 @@
+{
+    "name": "mvp-demo",
+    "version": "0.0.1",
+    "description": "Minimum viable product, key feature demonstration",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "SSI",
+        "DID",
+        "Verifiable",
+        "Credentials",
+        "Decentralised"
+    ],
+    "author": "gayan@track-back.co",
+    "license": "GPL-3.0-or-later",
+    "dependencies": {
+        "@trackback/agent": "0.0.1-alpha.25"
+    },
+    "devDependencies": {
+        "prettier": "2.4.1"
+    }
+}
