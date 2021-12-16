@@ -7,5 +7,5 @@ How to run
 ```javascript
 npm install
 nvm use 14
-npm run index.js
+node index.js
 ```
